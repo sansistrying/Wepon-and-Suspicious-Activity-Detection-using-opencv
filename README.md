@@ -31,3 +31,10 @@ Install the necessary Python libraries using `pip`:
 
 ```bash
 pip install opencv-python numpy tensorflow
+
+
+You can download the trained emotion recognition model from this [Google Drive link](https://drive.google.com/drive/folders/1DtSixBhCt3Ac2IxRnLDiaWtLzimh7MGi?usp=sharing).
+
+- YOLO weights and configuration files for weapon detection
+
+You can obtain the YOLO configuration files and weights from this [Google Drive link](https://drive.google.com/drive/folders/1DtSixBhCt3Ac2IxRnLDiaWtLzimh7MGi?usp=sharing).
